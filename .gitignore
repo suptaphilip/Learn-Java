@@ -18,6 +18,7 @@ local.properties
 # External tool builders
 .externalToolBuilders/
 
+<<<<<<< Updated upstream
 # Locally stored "Eclipse launch configurations"
 *.launch
 
@@ -55,3 +56,10 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/bin/
+>>>>>>> Stashed changes
+
+.DS_Store
